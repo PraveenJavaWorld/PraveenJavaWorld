@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveen
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringBoot with Microservices
+- 🌱 I’m currently learning Frontend Technologies like React, Angular
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me Ping to praveen97javaworld@gmail.com
 
